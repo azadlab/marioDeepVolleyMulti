@@ -1,7 +1,7 @@
 # Multi-Agent Adversarial Self-Play
 This is a AI based multi-agent Volley Ball Game using Deep Reinforcement Learning.
 
-![[mario-volley video](AIMultiVolley.png)](https://www.youtube.com/watch?v=_FH0q9lkqOc)
+[![video](AIMultiVolley.png)](https://www.youtube.com/watch?v=_FH0q9lkqOc)
 
 This project Depends on the following:
 
